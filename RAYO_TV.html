@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>RAYO TV</title>
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@300;400;500;600&display=swap');
+:root{--gold:#D4A017;--gold2:#F0C040;--amber:#FF8C00;--bg:#0A0A0A;--surface:#111;--surface2:#1A1A1A;--surface3:#222;--text:#F0EAD6;--text2:#9A8A6A;--red:#E63946}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--bg);color:var(--text);font-family:'Inter',sans-serif;min-height:100vh;overflow-x:hidden}
+header{background:linear-gradient(90deg,#0A0A0A,#1A1100,#0A0A0A);border-bottom:1px solid var(--gold);padding:0 16px;height:56px;display:flex;align-items:center;justify-content:space-between;position:sticky;top:0;z-index:100}
+.logo{font-family:'Bebas Neue',cursive;font-size:28px;letter-spacing:4px;background:linear-gradient(135deg,var(--gold),var(--gold2),var(--amber));-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text}
+.live-badge{background:var(--red);color:#fff;font-size:10px;font-weight:700;letter-spacing:2px;padding:3px 8px;border-radius:2px;animation:pulse 2s infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.6}}
+.tabs{display:flex;background:var(--surface);border-bottom:1px solid #2A2A2A;overflow-x:auto;scrollbar-width:none}
+.tabs::-webkit-scrollbar{display:none}
+.tab-btn{flex-shrink:0;background:none;border:none;color:var(--text2);font-family:'Inter',sans-serif;font-size:12px;font-weight:600;letter-spacing:1px;text-transform:uppercase;padding:14px 20px;cursor:pointer;border-bottom:2px solid transparent;transition:all .2s;white-space:nowrap}
+.tab-btn:hover{color:var(--gold)}
+.tab-btn.active{color:var(--gold);border-bottom-color:var(--gold)}
+.search-bar{padding:12px 16px;background:var(--surface);border-bottom:1px solid #1A1A1A}
+.search-input{width:100%;background:var(--surface2);border:1px solid #2A2A2A;border-radius:4px;color:var(--text);font-family:'Inter',sans-serif;font-size:14px;padding:10px 14px;outline:none;transition:border-color .2s}
+.search-input::placeholder{color:var(--text2)}
+.search-input:focus{border-color:var(--gold)}
+#player-section{display:none;background:#000}
+#player-section.visible{display:block}
+#player-title-bar{background:linear-gradient(90deg,#0A0A0A,#1A1100);border-bottom:1px solid var(--gold);padding:8px 16px;display:flex;align-items:center;justify-content:space-between}
+#playing-name{font-family:'Bebas Neue',cursive;font-size:18px;letter-spacing:2px;color:var(--gold2);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:80%}
+#close-player{background:none;border:1px solid #333;color:var(--text2);font-size:18px;width:32px;height:32px;border-radius:4px;cursor:pointer;display:flex;align-items:center;justify-content:center;flex-shrink:0}
+#main-video{width:100%;max-height:56vw;background:#000;display:block}
+#player-error{display:none;background:#0D0A00;border:1px solid var(--gold);border-radius:6px;margin:12px 16px;padding:16px;text-align:center}
+.retry-btn{background:linear-gradient(135deg,var(--gold),var(--amber));border:none;border-radius:4px;color:#000;font-weight:700;font-size:13px;padding:8px 20px;cursor:pointer;margin:4px}
+.vlc-btn{background:none;border:1px solid var(--gold);border-radius:4px;color:var(--gold);font-size:13px;padding:8px 20px;cursor:pointer;margin:4px}
+.group-filter{display:flex;gap:6px;overflow-x:auto;padding:10px 12px;background:var(--surface);border-bottom:1px solid #1A1A1A;scrollbar-width:none}
+.group-filter::-webkit-scrollbar{display:none}
+.group-pill{flex-shrink:0;background:var(--surface2);border:1px solid #2A2A2A;border-radius:20px;color:var(--text2);font-size:10px;font-weight:600;padding:5px 12px;cursor:pointer;transition:all .15s;white-space:nowrap}
+.group-pill:hover{border-color:var(--gold);color:var(--gold)}
+.group-pill.active{background:var(--gold);border-color:var(--gold);color:#000}
+#content-area{padding:12px 12px 80px}
+.channel-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:8px}
+.channel-card{background:var(--surface2);border:1px solid #2A2A2A;border-radius:6px;overflow:hidden;cursor:pointer;transition:all .15s}
+.channel-card:hover{border-color:var(--gold);transform:translateY(-2px);box-shadow:0 4px 20px rgba(212,160,23,.2)}
+.channel-card:active{transform:scale(.97)}
+.card-thumb{width:100%;aspect-ratio:16/9;background:var(--surface3);display:flex;align-items:center;justify-content:center;overflow:hidden;position:relative}
+.card-thumb img{width:70%;height:70%;object-fit:contain}
+.no-logo{font-family:'Bebas Neue',cursive;font-size:12px;color:var(--gold);text-align:center;padding:4px;line-height:1.2;word-break:break-word}
+.card-play-overlay{position:absolute;inset:0;background:rgba(212,160,23,.15);display:flex;align-items:center;justify-content:center;opacity:0;transition:opacity .15s}
+.channel-card:hover .card-play-overlay{opacity:1}
+.play-icon{width:36px;height:36px;background:rgba(212,160,23,.9);border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:14px}
+.card-info{padding:7px 8px;border-top:1px solid #2A2A2A}
+.card-name{font-size:11px;font-weight:500;color:var(--text);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.card-group{font-size:9px;color:var(--text2);margin-top:2px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+#loading-screen{position:fixed;inset:0;background:var(--bg);display:flex;flex-direction:column;align-items:center;justify-content:center;z-index:999}
+.loading-logo{font-family:'Bebas Neue',cursive;font-size:52px;letter-spacing:8px;background:linear-gradient(135deg,var(--gold),var(--gold2),var(--amber));-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;margin-bottom:24px}
+.loading-bar-wrap{width:220px;height:3px;background:#1A1A1A;border-radius:2px;overflow:hidden}
+.loading-bar{height:100%;background:linear-gradient(90deg,var(--gold),var(--amber));border-radius:2px;width:0%;transition:width .4s ease}
+.loading-txt{color:var(--text2);font-size:12px;margin-top:12px;text-align:center;padding:0 20px}
+.loading-count{color:var(--gold);font-size:11px;margin-top:6px;text-align:center}
+.pagination{display:flex;justify-content:center;gap:6px;margin-top:16px;flex-wrap:wrap}
+.page-btn{background:var(--surface2);border:1px solid #2A2A2A;color:var(--text2);font-size:12px;padding:6px 12px;border-radius:4px;cursor:pointer;transition:all .2s}
+.page-btn:hover,.page-btn.active{background:var(--gold);border-color:var(--gold);color:#000;font-weight:700}
+.empty-state{text-align:center;padding:40px 20px;color:var(--text2);grid-column:1/-1}
+.stats-bar{background:var(--surface);border-bottom:1px solid #1A1A1A;padding:8px 16px;font-size:11px;color:var(--text2);display:none;gap:10px;flex-wrap:wrap}
+.stats-bar b{color:var(--gold)}
+::-webkit-scrollbar{width:4px}
+::-webkit-scrollbar-track{background:var(--bg)}
+::-webkit-scrollbar-thumb{background:var(--gold);border-radius:2px}
+</style>
+</head>
+<body>
+
+<div id="loading-screen">
+  <div class="loading-logo">RAYO TV</div>
+  <div class="loading-bar-wrap"><div class="loading-bar" id="loading-bar"></div></div>
+  <div class="loading-txt" id="loading-txt">Conectando con el servidor...</div>
+  <div class="loading-count" id="loading-count"></div>
+</div>
+
+<header>
+  <div class="logo">RAYO TV</div>
+  <div class="live-badge">EN VIVO</div>
+</header>
+
+<div class="tabs">
+  <button class="tab-btn active" data-tab="live">En Vivo</button>
+  <button class="tab-btn" data-tab="sports">Deportes</button>
+  <button class="tab-btn" data-tab="movies">Peliculas</button>
+  <button class="tab-btn" data-tab="series">Series</button>
+  <button class="tab-btn" data-tab="kids">Infantil</button>
+  <button class="tab-btn" data-tab="all">Todo</button>
+</div>
+
+<div id="player-section">
+  <div id="player-title-bar">
+    <div id="playing-name">selecciona canal</div>
+    <button id="close-player">X</button>
+  </div>
+  <video id="main-video" controls autoplay playsinline></video>
+  <div id="player-error">
+    <div style="font-size:32px;margin-bottom:8px">error</div>
+    <div id="err-msg" style="color:var(--text2);font-size:13px;margin-bottom:12px;line-height:1.6">No se pudo reproducir.</div>
+    <button class="retry-btn" id="retry-btn">Reintentar</button>
+    <button class="vlc-btn" id="vlc-btn">Abrir en VLC</button>
+  </div>
+</div>
+
+<div class="search-bar">
+  <input type="text" class="search-input" id="search-input" placeholder="Buscar canal, pelicula, serie...">
+</div>
+
+<div class="stats-bar" id="stats-bar">
+  Total: <b id="st-total">0</b> |
+  En Vivo: <b id="st-live">0</b> |
+  Deportes: <b id="st-sports">0</b> |
+  Peliculas: <b id="st-movies">0</b> |
+  Series: <b id="st-series">0</b> |
+  Infantil: <b id="st-kids">0</b>
+</div>
+
+<div class="group-filter" id="group-filter"></div>
+<div id="content-area">
+  <div class="channel-grid" id="channel-grid"></div>
+  <div class="pagination" id="pagination"></div>
+</div>
+
+<script>
+var M3U_URL = 'http://flexlive.lat:8080/get.php?username=dagopineda&password=DAeVXavdtYjx&type=m3u_plus';
+var PROXIES = [
+  function(u){ return 'https://corsproxy.io/?' + encodeURIComponent(u); },
+  function(u){ return 'https://api.allorigins.win/raw?url=' + encodeURIComponent(u); },
+  function(u){ return 'https://proxy.cors.sh/' + u; }
+];
+var PER_PAGE = 60;
+var ALL = [], FILTERED = [];
+var TAB = 'live', GROUP = 'all', PAGE = 1, SEARCH = '';
+var currentCh = null;
+
+function classify(ch) {
+  var u = ch.url.toLowerCase();
+  var g = (ch.group || '').toLowerCase();
+  var n = (ch.name || '').toLowerCase();
+  if (/\/series\/|\/serie\//.test(u)) return 'series';
+  if (/\/movie\/|\/vod\//.test(u)) return 'movies';
+  if (/serie|temporada|dorama|anime|novela|teleserie/.test(g)) return 'series';
+  if (/cine|pelicula|movie|film|run time|saga/.test(g)) return 'movies';
+  if (/infant|kids|ni.o|disney|cartoon|animad/.test(g)) return 'kids';
+  if (/deport|sport|futbol|ufc|mls|nfl|nba|mlb|beisbol|baseball|espn|fox sport|directv|dsport|bein|gol tv|sky sport|formula|motogp|wwe|boxeo|rugby/.test(g)) return 'sports';
+  if (/espn|fox sport/.test(n)) return 'sports';
+  return 'live';
+}
+
+function parseM3U(text) {
+  var lines = text.split('\n');
+  var result = [];
+  var cur = null;
+  for (var i = 0; i < lines.length; i++) {
+    var line = lines[i].trim();
+    if (line.indexOf('#EXTINF') === 0) {
+      var nm = line.match(/,(.+)$/);
+      var lg = line.match(/tvg-logo="([^"]*)"/);
+      var gr = line.match(/group-title="([^"]*)"/);
+      cur = {
+        name: nm ? nm[1].trim() : '',
+        logo: lg ? lg[1].trim() : '',
+        group: gr ? gr[1].trim() : 'General'
+      };
+    } else if (line.indexOf('http') === 0 && cur) {
+      cur.url = line;
+      if (cur.name.length > 0) {
+        cur.type = classify(cur);
+        result.push(cur);
+      }
+      cur = null;
+    }
+  }
+  return result;
+}
+
+function setBar(p){ document.getElementById('loading-bar').style.width = p + '%'; }
+function setTxt(t){ document.getElementById('loading-txt').textContent = t; }
+function setCnt(t){ document.getElementById('loading-count').textContent = t; }
+
+async function fetchM3U() {
+  setTxt('Conectando con flexlive.lat...'); setBar(10);
+  try {
+    var r = await fetch(M3U_URL, { signal: AbortSignal.timeout(8000) });
+    if (r.ok) { setBar(60); return await r.text(); }
+  } catch(e) {}
+  for (var i = 0; i < PROXIES.length; i++) {
+    setTxt('Proxy ' + (i+1) + ' de ' + PROXIES.length + '...'); setBar(20 + i*15);
+    try {
+      var r2 = await fetch(PROXIES[i](M3U_URL), { signal: AbortSignal.timeout(25000) });
+      if (r2.ok) {
+        var txt = await r2.text();
+        if (txt.indexOf('#EXTM3U') >= 0) { setBar(75); return txt; }
+      }
+    } catch(e) {}
+  }
+  throw new Error('Sin conexion');
+}
+
+function getBase(){ return TAB === 'all' ? ALL : ALL.filter(function(c){ return c.type === TAB; }); }
+
+function renderGroups() {
+  var base = getBase();
+  var seen = {}, groups = ['all'];
+  for (var i = 0; i < base.length; i++) {
+    if (!seen[base[i].group]) { seen[base[i].group] = true; groups.push(base[i].group); }
+  }
+  var gf = document.getElementById('group-filter');
+  gf.innerHTML = '';
+  var max = Math.min(groups.length, 40);
+  for (var j = 0; j < max; j++) {
+    (function(g){
+      var p = document.createElement('button');
+      p.className = 'group-pill' + (g === GROUP ? ' active' : '');
+      p.textContent = g === 'all' ? 'Todos' : g;
+      p.onclick = function(){ GROUP = g; PAGE = 1; render(); };
+      gf.appendChild(p);
+    })(groups[j]);
+  }
+}
+
+function renderGrid() {
+  var grid = document.getElementById('channel-grid');
+  var pag = document.getElementById('pagination');
+  grid.innerHTML = ''; pag.innerHTML = '';
+  if (FILTERED.length === 0) {
+    grid.innerHTML = '<div class="empty-state"><div style="font-size:40px;margin-bottom:12px">no hay canales</div><p>Sin resultados</p></div>';
+    return;
+  }
+  var totalPages = Math.ceil(FILTERED.length / PER_PAGE);
+  var slice = FILTERED.slice((PAGE-1)*PER_PAGE, PAGE*PER_PAGE);
+  for (var i = 0; i < slice.length; i++) {
+    (function(ch){
+      var card = document.createElement('div');
+      card.className = 'channel-card';
+      var thumb = ch.logo
+        ? '<img src="' + ch.logo + '" loading="lazy" onerror="this.style.display=\'none\';this.nextSibling.style.display=\'flex\'">'
+          + '<div class="no-logo" style="display:none">' + ch.name.substring(0,14) + '</div>'
+        : '<div class="no-logo">' + ch.name.substring(0,14) + '</div>';
+      card.innerHTML =
+        '<div class="card-thumb">' + thumb +
+        '<div class="card-play-overlay"><div class="play-icon">play</div></div></div>' +
+        '<div class="card-info"><div class="card-name">' + ch.name + '</div>' +
+        '<div class="card-group">' + ch.group + '</div></div>';
+      card.onclick = function(){ playChannel(ch); };
+      grid.appendChild(card);
+    })(slice[i]);
+  }
+  if (totalPages > 1) {
+    function mkBtn(lbl, n, active) {
+      var b = document.createElement('button');
+      b.className = 'page-btn' + (active ? ' active' : '');
+      b.textContent = lbl;
+      b.onclick = function(){ PAGE = n; render(); document.querySelector('.search-bar').scrollIntoView({behavior:'smooth'}); };
+      return b;
+    }
+    if (PAGE > 1) pag.appendChild(mkBtn('anterior', PAGE-1, false));
+    var s = Math.max(1, PAGE-2), e = Math.min(totalPages, PAGE+2);
+    for (var p = s; p <= e; p++) pag.appendChild(mkBtn(p, p, p===PAGE));
+    if (PAGE < totalPages) pag.appendChild(mkBtn('siguiente', PAGE+1, false));
+  }
+}
+
+function render() {
+  var list = getBase();
+  if (GROUP !== 'all') list = list.filter(function(c){ return c.group === GROUP; });
+  if (SEARCH) {
+    var q = SEARCH.toLowerCase();
+    list = list.filter(function(c){ return c.name.toLowerCase().indexOf(q)>=0 || c.group.toLowerCase().indexOf(q)>=0; });
+  }
+  FILTERED = list;
+  renderGroups();
+  renderGrid();
+}
+
+var STREAM_PROXIES = [
+  function(u){ return u; }, // directo primero
+  function(u){ return 'https://corsproxy.io/?' + encodeURIComponent(u); },
+  function(u){ return 'https://api.allorigins.win/raw?url=' + encodeURIComponent(u); },
+  function(u){ return 'https://proxy.cors.sh/' + u; }
+];
+var currentProxyIndex = 0;
+
+function tryPlay(url, proxyIndex) {
+  if (proxyIndex >= STREAM_PROXIES.length) { showErr(); return; }
+  var vid = document.getElementById('main-video');
+  var proxiedUrl = STREAM_PROXIES[proxyIndex](url);
+  if (window._hls) { window._hls.destroy(); window._hls = null; }
+  if (typeof Hls !== 'undefined' && Hls.isSupported()) {
+    var hls = new Hls({enableWorker:true, lowLatencyMode:true, xhrSetup:function(xhr){ xhr.timeout = 8000; }});
+    window._hls = hls;
+    hls.loadSource(proxiedUrl);
+    hls.attachMedia(vid);
+    hls.on(Hls.Events.MANIFEST_PARSED, function(){ vid.play().catch(function(){ tryPlay(url, proxyIndex+1); }); });
+    hls.on(Hls.Events.ERROR, function(e, data){ if (data.fatal) { hls.destroy(); tryPlay(url, proxyIndex+1); } });
+  } else {
+    vid.src = proxiedUrl; vid.load();
+    vid.oncanplay = function(){ vid.play(); };
+    vid.onerror = function(){ tryPlay(url, proxyIndex+1); };
+  }
+}
+
+function playChannel(ch) {
+  currentCh = ch;
+  var sec = document.getElementById('player-section');
+  var vid = document.getElementById('main-video');
+  var err = document.getElementById('player-error');
+  document.getElementById('playing-name').textContent = ch.name;
+  err.style.display = 'none'; vid.style.display = 'block';
+  sec.classList.add('visible');
+  tryPlay(ch.url, 0);
+  sec.scrollIntoView({behavior:'smooth', block:'start'});
+}
+
+function showErr() {
+  document.getElementById('main-video').style.display = 'none';
+  document.getElementById('player-error').style.display = 'block';
+  document.getElementById('err-msg').innerHTML =
+    (currentCh ? currentCh.name : 'Canal') + ' no se pudo reproducir en el navegador.<br>' +
+    '<small>El stream puede estar offline. Intenta en VLC.</small>';
+}
+
+document.getElementById('main-video').onerror = showErr;
+document.getElementById('close-player').onclick = function(){
+  var vid = document.getElementById('main-video');
+  vid.pause(); vid.src = '';
+  document.getElementById('player-section').classList.remove('visible');
+};
+document.getElementById('retry-btn').onclick = function(){
+  if (!currentCh) return;
+  document.getElementById('player-error').style.display = 'none';
+  var vid = document.getElementById('main-video');
+  vid.style.display = 'block';
+  vid.src = currentCh.url; vid.load(); vid.play().catch(showErr);
+};
+document.getElementById('vlc-btn').onclick = function(){
+  if (currentCh) window.location.href = 'vlc://' + currentCh.url.replace(/^https?:\/\//, '');
+};
+
+document.querySelectorAll('.tab-btn').forEach(function(btn){
+  btn.onclick = function(){
+    document.querySelectorAll('.tab-btn').forEach(function(b){ b.classList.remove('active'); });
+    btn.classList.add('active');
+    TAB = btn.dataset.tab; GROUP = 'all'; PAGE = 1; render();
+  };
+});
+
+var st;
+document.getElementById('search-input').oninput = function(e){
+  clearTimeout(st);
+  st = setTimeout(function(){
+    SEARCH = e.target.value.trim(); PAGE = 1;
+    if (SEARCH) {
+      TAB = 'all';
+      document.querySelectorAll('.tab-btn').forEach(function(b){ b.classList.remove('active'); });
+      document.querySelector('[data-tab="all"]').classList.add('active');
+    }
+    render();
+  }, 300);
+};
+
+function updateStats(){
+  document.getElementById('st-total').textContent = ALL.length.toLocaleString();
+  document.getElementById('st-live').textContent = ALL.filter(function(c){return c.type==='live';}).length.toLocaleString();
+  document.getElementById('st-sports').textContent = ALL.filter(function(c){return c.type==='sports';}).length.toLocaleString();
+  document.getElementById('st-movies').textContent = ALL.filter(function(c){return c.type==='movies';}).length.toLocaleString();
+  document.getElementById('st-series').textContent = ALL.filter(function(c){return c.type==='series';}).length.toLocaleString();
+  document.getElementById('st-kids').textContent = ALL.filter(function(c){return c.type==='kids';}).length.toLocaleString();
+  document.getElementById('stats-bar').style.display = 'flex';
+}
+
+async function init(){
+  try {
+    var raw = await fetchM3U();
+    setTxt('Procesando canales...'); setBar(85);
+    await new Promise(function(r){setTimeout(r,50);});
+    ALL = parseM3U(raw);
+    setBar(100); setCnt(ALL.length.toLocaleString() + ' canales cargados');
+    await new Promise(function(r){setTimeout(r,700);});
+    document.getElementById('loading-screen').style.display = 'none';
+    updateStats(); render();
+  } catch(e) {
+    setTxt('No se pudo cargar la lista');
+    setCnt('Verifica tu conexion a internet.');
+    document.getElementById('loading-bar').style.background = '#E63946';
+    setBar(100);
+  }
+}
+
+init();
+</script>
+</body>
+</html>
