@@ -1,0 +1,26 @@
+{
+  "servidor": {
+    "url": "http://daleplaytv.vip:80",
+    "protocolo": "HTTP",
+    "puerto": "80"
+  },
+  "cuenta": {
+    "usuario": "Everardo4008",
+    "estado": "ACTIVA",
+    "conexiones_maximas": "3",
+    "conexiones_activas": "2",
+    "fecha_creacion": "04/03/2026"
+  },
+  "vencimiento": {
+    "fecha": "14/06/2027 13:39",
+    "dias_restantes": 352,
+    "estado": "OK"
+  },
+  "categorias": {
+    "live_tv": 101,
+    "peliculas_vod": 47,
+    "series": 28,
+    "total": 176
+  },
+  "generado": "26/06/2026 20:17:13"
+}

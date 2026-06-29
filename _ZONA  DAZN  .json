@@ -1,0 +1,52 @@
+[
+  {
+    "id": "143381",
+    "name": "B€IN SPORTS Ñ",
+    "logo": "http://daleplaypro.com:8080/images/baec6461b0d69dde1b861aefbe375d8a.png",
+    "category": "⏩ ZONA | BEIN SPORTS ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/143381.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "143362",
+    "name": "BN SPORT Ñ HD",
+    "logo": "http://daleplaypro.com:8080/images/76c778e94e0d3a8557c66207b737d473.png",
+    "category": "⏩ ZONA | BEIN SPORTS ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/143362.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "143380",
+    "name": "BN SPORTS USA",
+    "logo": "https://static.iptv-epg.com/ca/beINSportsGlobal.ca.png",
+    "category": "⏩ ZONA | BEIN SPORTS ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/143380.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "180604",
+    "name": "BN SPORTS 1 PREMIUM",
+    "logo": "http://daleplaypro.com:8080/images/76c778e94e0d3a8557c66207b737d473.png",
+    "category": "⏩ ZONA | BEIN SPORTS ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/180604.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1781689921"
+  },
+  {
+    "id": "180605",
+    "name": "BN SPORTS 3 PREMIUM",
+    "logo": "http://daleplaypro.com:8080/images/76c778e94e0d3a8557c66207b737d473.png",
+    "category": "⏩ ZONA | BEIN SPORTS ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/180605.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  }
+]

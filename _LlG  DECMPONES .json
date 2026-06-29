@@ -1,0 +1,792 @@
+[
+  {
+    "id": "317490",
+    "name": "AGRO TV",
+    "logo": "http://mundo2.vip:8080/images/af50c4ae90f1936b996291eb7d0a0be8.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317490.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317491",
+    "name": "AMC",
+    "logo": "http://mundo2.vip:8080/images/7c52ed5b8820b7dfd90b5a784bac64b3.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317491.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317492",
+    "name": "AMERICA TV",
+    "logo": "http://mundo2.vip:8080/images/30a3684accce1f511ea776a07d44c351.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317492.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317493",
+    "name": "ANTENA 1",
+    "logo": "http://mundo2.vip:8080/images/10bb6b75d103ec8facd0f6650fec9d03.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317493.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317494",
+    "name": "ANTENA 3",
+    "logo": "http://mundo2.vip:8080/images/be4eb88d0149ae4f2a3e3af17fae7ff5.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317494.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1760451957"
+  },
+  {
+    "id": "317495",
+    "name": "ARUSSA TV",
+    "logo": "http://mundo2.vip:8080/images/e9b50ce149cddc1508c80e29fc70ac19.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317495.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1781689921"
+  },
+  {
+    "id": "317496",
+    "name": "ATV SUR",
+    "logo": "http://mundo2.vip:8080/images/d2a5b569156233749c631bddf6051d1a.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317496.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317497",
+    "name": "AXN",
+    "logo": "http://mundo2.vip:8080/images/042dba4d2faaa29cd2fa4c0125416d25.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317497.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317498",
+    "name": "CINEMA INOLVIDABLE",
+    "logo": "http://mundo2.vip:8080/images/6feef9ff95cf873c21f5abd2eaed581c.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317498.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317499",
+    "name": "CORAZON",
+    "logo": "http://mundo2.vip:8080/images/8a52d25ec47bc00846cd832e763dd95d.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317499.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317500",
+    "name": "AZ INTERNACIONAL",
+    "logo": "http://mundo2.vip:8080/images/16b59c43c1ad0c491a760a9ef7e0e4a1.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317500.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317501",
+    "name": "BANDAMAX",
+    "logo": "http://mundo2.vip:8080/images/99b4f94a78a060acb895dca5a3b85f40.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317501.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317502",
+    "name": "BELLA ABANQUINA",
+    "logo": "http://mundo2.vip:8080/images/d72a401b739dbc256a01b776167a9cc7.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317502.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317503",
+    "name": "BETHEL",
+    "logo": "http://mundo2.vip:8080/images/d851bc155131e47b37e6f0407e0df7d0.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317503.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317504",
+    "name": "BHTV",
+    "logo": "http://mundo2.vip:8080/images/9bb00182c4d91fb87736c761e107ed67.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317504.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317505",
+    "name": "BITME",
+    "logo": "http://mundo2.vip:8080/images/2723a8a5cb3101971c1ab11a9d39f67b.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317505.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317506",
+    "name": "BITT TV",
+    "logo": "http://mundo2.vip:8080/images/b587c46873dc9d4c6dcc328ddb86955f.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317506.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317507",
+    "name": "LAS ESTRELLAS",
+    "logo": "http://mundo2.vip:8080/images/2b639247e30c7b2695af807047972b6a.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317507.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317508",
+    "name": "CINECANAL",
+    "logo": "http://mundo2.vip:8080/images/a0ccc44fba4acc60927f7e08695676e7.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317508.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317509",
+    "name": "CINE FAMILIAR",
+    "logo": "http://mundo2.vip:8080/images/a3a10a0e2b947975024d3ee59478449a.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317509.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1774021922"
+  },
+  {
+    "id": "317510",
+    "name": "CINE HISPANO HD",
+    "logo": "http://mundo2.vip:8080/images/72fa5d3742451e375a4f681d315fa723.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317510.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1774021922"
+  },
+  {
+    "id": "317511",
+    "name": "CANAL INFANTIL",
+    "logo": "http://mundo2.vip:8080/images/824b6db75ff579ee19d4512121c09c0c.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317511.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1774021922"
+  },
+  {
+    "id": "317512",
+    "name": "CINE PREMIUM HD",
+    "logo": "http://mundo2.vip:8080/images/3d97b5256585a237506196707dabccff.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317512.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1774021922"
+  },
+  {
+    "id": "317513",
+    "name": "CONECTA2 TV",
+    "logo": "http://mundo2.vip:8080/images/2c446996d5c8bfc625bc8b1227004e12.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317513.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317514",
+    "name": "CTV",
+    "logo": "http://mundo2.vip:8080/images/2c92b58c155f6675a435131e2f2f45d7.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317514.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317515",
+    "name": "CLOVER CHANNEL",
+    "logo": "http://mundo2.vip:8080/images/a8a57fe533c51515118e7d85c8a9f476.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317515.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1766899261"
+  },
+  {
+    "id": "317516",
+    "name": "DE PELICULA",
+    "logo": "http://mundo2.vip:8080/images/b0020e9b0ed18e298322716dcfdcafc0.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317516.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317517",
+    "name": "DISTRITO COMEDIA",
+    "logo": "http://mundo2.vip:8080/images/9f6bd8bf3c07254fa7d10f763169cb17.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317517.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317518",
+    "name": "DREAMWORKS",
+    "logo": "http://mundo2.vip:8080/images/af9219d7124ca16c3733b91370100772.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317518.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317519",
+    "name": "DUNAS TV",
+    "logo": "http://mundo2.vip:8080/images/924bfc637c045be595f5c4d859cc6fb1.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317519.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317520",
+    "name": "DW",
+    "logo": "http://mundo2.vip:8080/images/0bdfe2e55090d6be70793778d0d8e147.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317520.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317521",
+    "name": "ENLACE",
+    "logo": "http://mundo2.vip:8080/images/e8f9c0a487284fd0b7a3c7ef3081e868.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317521.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1781689921"
+  },
+  {
+    "id": "317523",
+    "name": "EVENTOS",
+    "logo": "http://mundo2.vip:8080/images/4a9702f7ffe84ee7fc40d587e191c45c.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317523.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1779179281"
+  },
+  {
+    "id": "317524",
+    "name": "EWTN",
+    "logo": "http://mundo2.vip:8080/images/40dbd2460c336f980951da0f456e729f.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317524.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317525",
+    "name": "FILMS & ARTS",
+    "logo": "http://mundo2.vip:8080/images/5158b013c9827ca60160ef8925d1edba.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317525.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317526",
+    "name": "FOLKLORE TV",
+    "logo": "http://mundo2.vip:8080/images/0760af8cfeab7d7bfdc51ccb87b0ccf3.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317526.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317527",
+    "name": "FX",
+    "logo": "http://mundo2.vip:8080/images/b8b5089c70ae62534970e2d8aa67e96d.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317527.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317528",
+    "name": "GOLDEN EDGE",
+    "logo": "http://mundo2.vip:8080/images/91019a5463e546d88723d04941e78457.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317528.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317529",
+    "name": "GOLDEN LATINO",
+    "logo": "http://mundo2.vip:8080/images/e50583185ee77e8027d6d72e1d7428ac.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317529.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317530",
+    "name": "GTV PISCO",
+    "logo": "http://mundo2.vip:8080/images/e64a3458d27f464016c02280b55fe1ad.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317530.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317531",
+    "name": "IPE",
+    "logo": "http://mundo2.vip:8080/images/065957dff2d3bb9f6ddfb16bc7be5db8.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317531.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317532",
+    "name": "JN19",
+    "logo": "http://mundo2.vip:8080/images/b8707e85ae7350eba450b0f1b428c8ca.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317532.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317533",
+    "name": "JUNTOSTV",
+    "logo": "http://mundo2.vip:8080/images/4381c8fc32a4f49afcc7200f66b846e9.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317533.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317534",
+    "name": "JUSTICIA TV",
+    "logo": "http://mundo2.vip:8080/images/53c85b4e7d4020983478b5b939e59a64.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317534.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317535",
+    "name": "KANAL D",
+    "logo": "http://mundo2.vip:8080/images/a1393f68d11ec976fc02d4ce26778e1a.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317535.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317536",
+    "name": "LA TELE",
+    "logo": "http://mundo2.vip:8080/images/bbcf5aea2a1d9bf2686f8641fcd1e5dc.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317536.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317537",
+    "name": "LATINA NOTICIAS",
+    "logo": "http://mundo2.vip:8080/images/440743a20d4a97878639ab8bd0dee833.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317537.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317538",
+    "name": "LIKE TV",
+    "logo": "http://mundo2.vip:8080/images/27e69e11da69898c859d3f6bf4fb99a5.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317538.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1760451957"
+  },
+  {
+    "id": "317540",
+    "name": "MIMÚSICA HITS",
+    "logo": "http://mundo2.vip:8080/images/757d0b7f881745aee5ded4d7720f1851.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317540.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1774021922"
+  },
+  {
+    "id": "317541",
+    "name": "MI MUSICA K-POP",
+    "logo": "http://mundo2.vip:8080/images/881380a44dc2d0c095d3031f208e05b2.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317541.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1774021922"
+  },
+  {
+    "id": "317542",
+    "name": "MI MUSICA PERU",
+    "logo": "http://mundo2.vip:8080/images/aaad085a4050700d47f53ad8c815d98c.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317542.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1774021922"
+  },
+  {
+    "id": "317543",
+    "name": "MIMUSICA ROMANTICA",
+    "logo": "http://mundo2.vip:8080/images/39b82ac2be93f011eba12c9e4d5ebebb.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317543.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1774021922"
+  },
+  {
+    "id": "317544",
+    "name": "NATIVA",
+    "logo": "http://mundo2.vip:8080/images/b995eead2b785622c84a6c89456fd11c.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317544.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317545",
+    "name": "NEOTV",
+    "logo": "http://mundo2.vip:8080/images/8f81b8381405b81b91b521c5899b10a7.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317545.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317546",
+    "name": "NOTICIAS CARACOL",
+    "logo": "http://mundo2.vip:8080/images/84493c50aac372258e6b28a8796ae753.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317546.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317547",
+    "name": "OVACION",
+    "logo": "http://mundo2.vip:8080/images/03df9216683a8c7d899a918eb95671f0.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317547.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317548",
+    "name": "PASIONES",
+    "logo": "http://mundo2.vip:8080/images/961f8d152f8a434df0a1e15e198e067c.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317548.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317549",
+    "name": "PBO",
+    "logo": "http://mundo2.vip:8080/images/a466c7795edfc3b1490f07bdf64d8ef5.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317549.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317550",
+    "name": "PLIM PLIM",
+    "logo": "http://mundo2.vip:8080/images/26c48e02aee98ff0e7df2b1a5dc6536f.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317550.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317551",
+    "name": "QOSMO TELEVISIÓN",
+    "logo": "http://mundo2.vip:8080/images/6d3bee8e5ad0bf8eafc9511a97cb928f.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317551.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1777742821"
+  },
+  {
+    "id": "317552",
+    "name": "RADIO SUPER HITS",
+    "logo": "http://mundo2.vip:8080/images/cf5cc629f005b1752ef689ae7613417c.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317552.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1764707401"
+  },
+  {
+    "id": "317553",
+    "name": "RCR",
+    "logo": "http://mundo2.vip:8080/images/ed6d55663139df20b71b553fd87f7618.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317553.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317554",
+    "name": "SONY MOVIES",
+    "logo": "http://mundo2.vip:8080/images/11dadba3103a46e999b0bc7177924e93.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317554.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317555",
+    "name": "STUDIO UNIVERSAL",
+    "logo": "http://mundo2.vip:8080/images/75d8cd8ed6ea6c5c001040b5f1d0ad7b.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317555.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317556",
+    "name": "SUMAC TV",
+    "logo": "http://mundo2.vip:8080/images/1712e697415c5745702dfcf7c526de45.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317556.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317557",
+    "name": "TARAPOTO TV",
+    "logo": "http://mundo2.vip:8080/images/3803db45bc1df60b0da1258a38857095.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317557.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317558",
+    "name": "TELEHIT LATINO",
+    "logo": "http://mundo2.vip:8080/images/07afd7811c95353f57b2c7b2e2028e78.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317558.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317559",
+    "name": "TELEHIT MUSICA",
+    "logo": "http://mundo2.vip:8080/images/582e850f4302644888a03829c8e8fd1e.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317559.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317560",
+    "name": "TELEMUNDO",
+    "logo": "http://mundo2.vip:8080/images/56f924ab0e3529515562d1e070270220.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317560.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317561",
+    "name": "TOPLATINO",
+    "logo": "http://mundo2.vip:8080/images/624ad965849d0b12afe9ecb444012bbd.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317561.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317562",
+    "name": "EL TRECE INTERNACIONAL",
+    "logo": "http://mundo2.vip:8080/images/0d96bbdf5b78238b713e7e65623e113c.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317562.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1769341382"
+  },
+  {
+    "id": "317563",
+    "name": "TRIVU TV",
+    "logo": "http://mundo2.vip:8080/images/ed9111a183e4637d96b58412a61f269d.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317563.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317564",
+    "name": "TVL",
+    "logo": "http://mundo2.vip:8080/images/51651e15badc54dbded8bfe27dcfacd6.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317564.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317565",
+    "name": "TV + CHINCHA",
+    "logo": "http://mundo2.vip:8080/images/b47753270492a7afadc03453d1697828.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317565.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1781689921"
+  },
+  {
+    "id": "317566",
+    "name": "USA",
+    "logo": "http://mundo2.vip:8080/images/f75d91cdd36b85cc4a8dfeca4f24fa14.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317566.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317567",
+    "name": "USMP TV",
+    "logo": "http://mundo2.vip:8080/images/63a8cac88e9895b2789245393c729916.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317567.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317568",
+    "name": "VÍA TELEVISIÓN",
+    "logo": "http://mundo2.vip:8080/images/1bfeddf546d4f22ae3695b63caf44551.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317568.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317569",
+    "name": "ZOOMOO",
+    "logo": "http://mundo2.vip:8080/images/ac11fb6a51c835584ec36927ba57f0f6.png",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317569.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1782112981"
+  },
+  {
+    "id": "317539",
+    "name": "AMC SERlES",
+    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUkoI91Y4b_NUBoYD6-LXyNiARFKcRXyGp1EmVoNLXUPnYCJIRPswD8Pb_ioxfVwmaRgMF9CZfeuu6OM7ImjeiRRAHchr7Bu6gFQgSzXFp4qBgSI98m678iS86AXmHSiYp3w8Fi_8YGVC-MJ3-WxIhUaoWPLBAL3W9U_1ubAyzyiLsaSPmpXuiEKGMjNx/w1200-h675-p-k-no-nu/maxresdefault.jpg",
+    "category": "⏩ LATINOS PREMIUM ⏪",
+    "url": "http://daleplaytv.vip:80/live/Everardo4008/Everardo4008/317539.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1760451957"
+  }
+]
