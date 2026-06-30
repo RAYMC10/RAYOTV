@@ -1,0 +1,732 @@
+[
+  {
+    "id": "",
+    "name": "US: 5 STARMAX",
+    "logo": "https://static.epg.best/us/5StarMax.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438234.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "US: CINEMAX WEST",
+    "logo": "https://e7.pngegg.com/pngimages/946/949/png-clipart-logo-cinemax-television-channel-space-television-text.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438237.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "US: EPIX",
+    "logo": "https://static.epg.best/us/EPIX.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438238.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "US: EPIX 2",
+    "logo": "https://static.epg.best/us/EPIX2.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438239.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "US: EPIX DRIVE-IN",
+    "logo": "https://static.epg.best/us/EpixDriveIn.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438240.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "US: HBO 2",
+    "logo": "https://static.epg.best/br/HBO2.br.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438241.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "US: HBO EAST",
+    "logo": "https://static.epg.best/us/HBO.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438243.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "US: HBO FAMILY",
+    "logo": "https://static.epg.best/us/HBOFamily.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438244.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "US: HBO PLUS",
+    "logo": "https://static.epg.best/mx/HBOPlus.mx.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438245.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "US: HBO ZONE",
+    "logo": "https://static.epg.best/us/HBOZone.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438247.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "US: HDNET MOVIES",
+    "logo": "https://static.epg.best/us/HDNetMovies.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438248.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "US: INDIE PLEX",
+    "logo": "https://mirror.streamhubtv.ca:443/images/EyP0neaKlaVfFrUx3ehzSeRNIL7FNIkfNZvlW5MlzToLDdvyeM81u38SbwyOmKYArIxcSv93w7-5xUG8o6obGA.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438249.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "US: MGM + HITS",
+    "logo": "https://static.epg.best/us/EPIXHits.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438250.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "US: MOREMAX",
+    "logo": "https://static.epg.best/us/MoreMax.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438251.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "US: MOVIE PLEX",
+    "logo": "https://mirror.streamhubtv.ca:443/images/EyP0neaKlaVfFrUx3ehzSeRNIL7FNIkfNZvlW5MlzTpoYohdoqa4tNN0zxS0Wm4Jqcyza0jnSwfWY3V8l41v8w.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438252.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "US: MOVIEMAX",
+    "logo": "https://static.epg.best/us/MovieMax.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438253.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "US: RETRO PLEX",
+    "logo": "https://mirror.streamhubtv.ca:443/images/EyP0neaKlaVfFrUx3ehzSeRNIL7FNIkfNZvlW5MlzTqxjuT1G1o4yLHCtEkBa4rN6cKU5L6xm2H_QbMNkf_Iyg.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438255.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "US: SHOWTIME 2",
+    "logo": "https://static.epg.best/us/Showtime2.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438256.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "US: SHOWTIME BET",
+    "logo": "https://static.epg.best/us/Showtime2.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438257.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "US: SHOWTIME EAST",
+    "logo": "https://static.epg.best/us/Showtime.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438258.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "US: SHOWTIME EXTREME",
+    "logo": "https://static.epg.best/us/ShowtimeExtreme.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438259.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "US: SHOWTIME FAMILY ZONE",
+    "logo": "https://static.epg.best/us/ShowtimeFamilyZone.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438260.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "US: SHOWTIME NEXT",
+    "logo": "https://static.epg.best/us/ShowtimeNext.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438261.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "US: SHOWTIME SHOWCASE",
+    "logo": "https://static.epg.best/us/ShowtimeShowcase.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438262.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "US: SHOWTIME WEST",
+    "logo": "https://static.epg.best/us/Showtime.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438263.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "US: SHOWTIME WOMEN",
+    "logo": "https://static.epg.best/us/ShowtimeWomen.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438264.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "US: SONY MOVIES",
+    "logo": "https://static.epg.best/us/SonyMovieChannel.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438265.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "US: STARZ CINEMA",
+    "logo": "https://static.epg.best/us/StarzCinema.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438266.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "US: STARZ COMEDY",
+    "logo": "https://static.epg.best/us/StarzComedy.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438267.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "US: STARZ EAST",
+    "logo": "https://static.epg.best/us/Starz.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438268.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "US: STARZ EDGE",
+    "logo": "https://static.epg.best/us/StarzEdge.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438269.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "US: STARZ IN BLACK",
+    "logo": "https://static.epg.best/us/StarzInBlack.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438270.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "US: STARZ KIDS & FAMILY",
+    "logo": "https://static.epg.best/us/StarzKidsFamily.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438271.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "US: STARZ WEST",
+    "logo": "https://static.epg.best/us/Starz.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438272.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "US: STARZENCORE ACTION",
+    "logo": "https://static.epg.best/us/StarzEncoreAction.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438273.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "US: STARZENCORE CLASSIC",
+    "logo": "https://static.epg.best/us/StarzEncoreClassics.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438274.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "US: STARZENCORE EAST",
+    "logo": "https://static.epg.best/us/StarzEncore.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438275.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "US: STARZENCORE FAMILY",
+    "logo": "https://static.epg.best/us/StarzEncoreFamily.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438276.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "US: STARZENCORE SUSPENSE",
+    "logo": "https://static.epg.best/us/StarzEncoreSuspense.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438277.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "US: STARZENCORE WEST",
+    "logo": "https://static.epg.best/us/StarzEncore.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438278.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "US: STARZENCORE WESTERNS",
+    "logo": "https://static.epg.best/us/StarzEncoreWesterns.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438279.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "ACTIONMAX WEST",
+    "logo": "https://static.epg.best/us/ActionMax.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438281.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CA: SHOWCASE",
+    "logo": "https://static.epg.best/ca/Showcase.ca.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438282.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "HBO 2 WEST",
+    "logo": "https://static.epg.best/us/HBO2.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438283.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "HBO COMEDY WEST",
+    "logo": "https://static.epg.best/us/HBOComedy.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438284.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "HBO FAMILY WEST",
+    "logo": "https://static.epg.best/us/HBOFamily.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438285.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "HBO SIGNATURE WEST",
+    "logo": "https://static.epg.best/us/HBOSignature.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438286.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "INDIEPLEX WEST",
+    "logo": "https://mirror.streamhubtv.ca:443/images/EyP0neaKlaVfFrUx3ehzSeRNIL7FNIkfNZvlW5MlzToLDdvyeM81u38SbwyOmKYArIxcSv93w7-5xUG8o6obGA.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438289.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "MORE MAX WEST",
+    "logo": "https://static.epg.best/us/MoreMax.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438290.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "MOVIEPLEX WEST",
+    "logo": "https://mirror.streamhubtv.ca:443/images/EyP0neaKlaVfFrUx3ehzSeRNIL7FNIkfNZvlW5MlzTpoYohdoqa4tNN0zxS0Wm4Jqcyza0jnSwfWY3V8l41v8w.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438291.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "RETROPLEX WEST",
+    "logo": "https://mirror.streamhubtv.ca:443/images/EyP0neaKlaVfFrUx3ehzSeRNIL7FNIkfNZvlW5MlzTqxjuT1G1o4yLHCtEkBa4rN6cKU5L6xm2H_QbMNkf_Iyg.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438292.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "ScreenPix Action US",
+    "logo": "https://static.epg.best/us/ScreenPixAction.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438293.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "ScreenPix US",
+    "logo": "https://static.epg.best/us/ScreenPix.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438294.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "ScreenPix Voices US",
+    "logo": "https://static.epg.best/us/ScreenPixVoices.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438295.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "ScreenPix Westerns US",
+    "logo": "https://static.epg.best/us/ScreenPixWestern.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438296.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "SHOWTIME BET WEST",
+    "logo": "https://static.epg.best/us/Showtime2.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438298.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "SHOWTIME EXTREME WEST",
+    "logo": "https://static.epg.best/us/ShowtimeExtreme.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438299.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "SHOWTIME FAMILY ZONE WEST",
+    "logo": "https://static.epg.best/us/ShowtimeFamilyZone.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438300.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "SHOWTIME NEXT WEST",
+    "logo": "https://static.epg.best/us/ShowtimeNext.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438301.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "SHOWTIME WOMEN WEST",
+    "logo": "https://static.epg.best/us/ShowtimeWomen.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438303.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "STARZ CINEMA WEST",
+    "logo": "https://static.epg.best/us/StarzCinema.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438304.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "STARZ COMEDY WEST",
+    "logo": "https://static.epg.best/us/StarzComedy.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438305.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "STARZ EDGE WEST",
+    "logo": "https://static.epg.best/us/StarzEdge.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438306.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "STARZENCORE ACTION WEST",
+    "logo": "https://static.epg.best/us/StarzEncoreAction.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438307.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "STARZENCORE BLACK WEST",
+    "logo": "https://static.epg.best/us/StarzEncoreBlack.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438308.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "STARZENCORE CLASSIC WEST",
+    "logo": "https://static.epg.best/us/StarzEncoreClassics.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438309.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "STARZENCORE FAMILY WEST",
+    "logo": "https://static.epg.best/us/StarzEncoreFamily.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438310.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "STARZENCORE SUSPENSE WEST",
+    "logo": "https://static.epg.best/us/StarzEncoreSuspense.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438311.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "STARZENCORE WESTERN WEST",
+    "logo": "https://static.epg.best/us/StarzEncoreWesterns.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438312.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "STARZINBLACK WEST",
+    "logo": "https://static.epg.best/us/StarzInBlack.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438313.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "STARZKIDS WEST",
+    "logo": "https://static.epg.best/us/StarzKidsFamily.us.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438314.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "TCM WEST",
+    "logo": "https://static.epg.best/ar/TCM.ar.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438315.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "THE MOVIE CHANNEL USA",
+    "logo": "https://i.ibb.co/VJ24XfP/the-movie-channel.png",
+    "category": "▶️ USA CINE",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/438316.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "",
+    "name": "TUDN USA",
+    "logo": "https://mirror.streamhubtv.ca:443/images/6f9b53b095218ad570cd160a734fc922.png",
+    "category": "▶️ TUDN",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/124308.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "TUDN EXTRA",
+    "logo": "https://media.cdnandroid.com/item_images/63161/imagen-televisa-deportes-0ori.jpg",
+    "category": "▶️ TUDN",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/124306.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "TUDN OPC 1",
+    "logo": "https://media.cdnandroid.com/item_images/63161/imagen-televisa-deportes-0ori.jpg",
+    "category": "▶️ TUDN",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/266893.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "TUDN OPC 3",
+    "logo": "https://media.cdnandroid.com/item_images/63161/imagen-televisa-deportes-0ori.jpg",
+    "category": "▶️ TUDN",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/124296.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "TUDN OPC 2",
+    "logo": "https://media.cdnandroid.com/item_images/63161/imagen-televisa-deportes-0ori.jpg",
+    "category": "▶️ TUDN",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/124295.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  }
+]

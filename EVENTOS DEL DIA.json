@@ -1,0 +1,782 @@
+[
+  {
+    "id": "",
+    "name": "NFL Network",
+    "logo": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/tfki7njrm3y8jycbtkrx",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467237.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "PPV BOX | WWE Channel",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/WWE_official_logo.svg/1200px-WWE_official_logo.svg.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467238.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "PPV BOX | WWE SMACKDOWN (SOLO EVENTOS)",
+    "logo": "https://s.yimg.com/ny/api/res/1.2/3EEN3zL5JbobsgGu6fMkug--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://media.zenfs.com/en/wrestle_zone_910/8726fb1effb0efe9401a23536ae8d492",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467239.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "PPV BOX | WWE RAW (SOLO EVENTOS)",
+    "logo": "https://pbs.twimg.com/media/Ge77Z8_bMAAQofn?format=jpg&name=large",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467240.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "PPV BOX | WWE NXT (SOLO EVENTOS)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/NXT2024.jpg",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467241.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "PPV BOX | TITAN",
+    "logo": "https://yt3.googleusercontent.com/s3VKv041cd_2fI5QdEG6T8IvDkLepdRKofk3ztEjRwb2TkH3UQIGtchzR-SX-KFxPeBeXIMKlw=s900-c-k-c0x00ffffff-no-rj",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467242.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "PPV BOX | AEW TBS",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/All_Elite_Wrestling_logo_2024.svg/1200px-All_Elite_Wrestling_logo_2024.svg.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467243.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "PPV BOX | AEW FOX SPORTS PREMIUM",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/All_Elite_Wrestling_logo_2024.svg/1200px-All_Elite_Wrestling_logo_2024.svg.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467244.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "PPV BOX | UFC FIGHT PASS",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXeDip0403HsCh2IAcjCZmfiaPaCDRzR54GQ&s",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467245.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "PPV BOX | USA NETWORK OP1",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhnFFS1IZktlgI0c7s0K4L2C19jQH1Ptv9Jw&s",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467246.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "PPV BOX | USA NETWORK OP2",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhnFFS1IZktlgI0c7s0K4L2C19jQH1Ptv9Jw&s",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467247.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "19:15 - 2da Final Basketball Uruguayo - Peñarol vs Aguada",
+    "logo": "http://127.0.0.1/",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467248.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "11:00 - Amistoso - Armenia vs. Moldavia",
+    "logo": "https://pronosticos.co/wp-content/uploads/2016/08/Amistosos-Internacionales-1.jpg",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467249.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "11:00 - Amistoso - RD del Congo vs Chile",
+    "logo": "https://pronosticos.co/wp-content/uploads/2016/08/Amistosos-Internacionales-1.jpg",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467250.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "11:30 - Amistoso - Bielorrusia vs. Burkina Faso",
+    "logo": "https://pronosticos.co/wp-content/uploads/2016/08/Amistosos-Internacionales-1.jpg",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467251.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "12:00 - Amistoso - Hungría vs. Kazajistán",
+    "logo": "https://pronosticos.co/wp-content/uploads/2016/08/Amistosos-Internacionales-1.jpg",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467252.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "13:00 - Amistoso - Azerbaiyán vs. San Marino",
+    "logo": "https://pronosticos.co/wp-content/uploads/2016/08/Amistosos-Internacionales-1.jpg",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467253.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "20:00 - Amistoso - Iraq vs Venezuela",
+    "logo": "https://pronosticos.co/wp-content/uploads/2016/08/Amistosos-Internacionales-1.jpg",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467254.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "20:00 - Amistoso - Argentina vs. Iceland",
+    "logo": "https://pronosticos.co/wp-content/uploads/2016/08/Amistosos-Internacionales-1.jpg",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467255.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "11:00 - Clasif Mund Fem - Slovenia vs. Germany",
+    "logo": "https://pbs.twimg.com/media/G_hgzpuXAAAo5sd.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467256.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "12:00 - Clasif Mund Fem - Suecia vs. Italia",
+    "logo": "https://pbs.twimg.com/media/G_hgzpuXAAAo5sd.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467257.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "14:00 - Clasif Mund Fem - Inglaterra vs. Ucrania",
+    "logo": "https://pbs.twimg.com/media/G_hgzpuXAAAo5sd.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467258.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "14:00 - Clasif Mund Fem - Islandia vs España",
+    "logo": "https://pbs.twimg.com/media/G_hgzpuXAAAo5sd.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467259.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "14:00 - Clasif Mund Fem - Netherlands vs. Poland",
+    "logo": "https://pbs.twimg.com/media/G_hgzpuXAAAo5sd.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467260.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "14:00 - Clasif Mund Fem - Francia vs. Irlanda",
+    "logo": "https://pbs.twimg.com/media/G_hgzpuXAAAo5sd.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467261.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "18:00 - CONMEBOL Nations League Fem - Ecuador vs. Argentina",
+    "logo": "https://r2.thesportsdb.com/images/media/league/badge/xun8gp1763456795.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467262.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "18:00 - CONMEBOL Nations League Fem - Paraguay vs. Colombia",
+    "logo": "https://r2.thesportsdb.com/images/media/league/badge/xun8gp1763456795.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467263.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "18:00 - CONMEBOL Nations League Fem - Perú vs. Bolivia",
+    "logo": "https://r2.thesportsdb.com/images/media/league/badge/xun8gp1763456795.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467264.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "04:00 - Amistoso Fem - Australia vs. Mexico",
+    "logo": "https://pronosticos.co/wp-content/uploads/2016/08/Amistosos-Internacionales-1.jpg",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467265.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "19:30 - Amistoso Fem - USA vs. Brazil",
+    "logo": "https://pronosticos.co/wp-content/uploads/2016/08/Amistosos-Internacionales-1.jpg",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467266.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "19:00 - USL Cup - Birmingham vs. Corpus Christi",
+    "logo": "https://cdn3.sportngin.com/attachments/document/0135/0314/USL_Cup_Logo-02.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467267.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "13:00 - Arg Torneo Res - Lanús Res. vs Independiente Res.",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467268.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "17:00 - Arg Torneo Res - River Plate Res. vs Rosario Central Res.",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467269.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "17:00 - Serie B - Náutico vs Fortaleza",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Brasileir%C3%A3o_S%C3%A9rie_B_Superbet_logo_(all_grey).svg/500px-Brasileir%C3%A3o_S%C3%A9rie_B_Superbet_logo_(all_grey).svg.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467270.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "18:00 - Canadian PL - Atl. Ottawa vs Supra du Quebec",
+    "logo": "https://thumbs.dreamstime.com/b/logo-de-la-premier-league-canad%C3%A1-canadiense-f%C3%BAtbol-apertura-clausura-temporada-primavera-171067910.jpg",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467271.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "14:00 - Segunda España - Almeria vs. Castellón",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/LaLiga_SmartBank_TV_logo.svg/960px-LaLiga_SmartBank_TV_logo.svg.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467272.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "17:30 - Beisbol - Collegiate League MV Sharks vs. Valley",
+    "logo": "https://c8.alamy.com/comp/2RFK4FK/baseball-college-league-logo-graphic-design-for-t-shirt-vector-and-illustration-2RFK4FK.jpg",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467273.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "17:30 - Beisbol - Collegiate League Newport vs. Danbury",
+    "logo": "https://c8.alamy.com/comp/2RFK4FK/baseball-college-league-logo-graphic-design-for-t-shirt-vector-and-illustration-2RFK4FK.jpg",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467274.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "13:00 - Basket - ACB Barcelona vs. Tenerife",
+    "logo": "https://i.pinimg.com/736x/75/b8/54/75b854e78649f07764afdd8652dd0c83.jpg",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467275.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "09:00 - ATP - Thijs Boogaard (NED) vs. Yibing Wu (CHN) (Primera Ronda)",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/f/f6/ATP_Tour_2019_Logo.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467276.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "06:00 - HSBC Championships (Primera Ronda) - WTA",
+    "logo": "https://images.seeklogo.com/logo-png/39/1/wta-2020-logo-png_seeklogo-392673.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467277.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "06:00 - HSBC Championships / Court 5 (Doubles) - WTA",
+    "logo": "https://images.seeklogo.com/logo-png/39/1/wta-2020-logo-png_seeklogo-392673.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467278.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "09:00 - WTA - Anastasia Potapova (AUT) vs. Suzan Lamens (NED)",
+    "logo": "https://images.seeklogo.com/logo-png/39/1/wta-2020-logo-png_seeklogo-392673.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467279.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "08:00 - Tour Auvergne-Rhône-Alpes: Stage 3 - Ciclismo",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tour_Auvergne-Rh%C3%B4ne-Alpes.svg/960px-Tour_Auvergne-Rh%C3%B4ne-Alpes.svg.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467280.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "20:00 - LMB 01 | Puebla vs Saltillo",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/f975vs1625460045.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467281.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "20:00 - LMB 02 | Queretaro vs Laguna",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/f975vs1625460045.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467282.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "20:00 - LMB 03 | Veracruz vs Toros de Tijuana",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/f975vs1625460045.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467283.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "20:30 - LMB 04 | Bravos de Leon vs Dos Laredos",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/f975vs1625460045.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467284.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "20:30 - LMB 05 | Charros de Jalisco vs Oaxaca",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/f975vs1625460045.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467285.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "20:30 - LMB 06 | Sultanes de Monterrey vs Quintana Roo",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/f975vs1625460045.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467286.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "20:30 - LMB 07 | Tabasco vs Caliente de Durango",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/f975vs1625460045.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467287.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "20:30 - LMB 08 | Yucatan vs Aguascalientes",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/f975vs1625460045.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467288.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "20:45 - LMB 09 | Monclova vs Diablos Rojos",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/f975vs1625460045.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467289.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "21:00 - LMB 10 | Chihuahua vs Campeche",
+    "logo": "https://r2.thesportsdb.com/images/media/league/logo/f975vs1625460045.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467290.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "17:35 - MLB 01 - Orioles vs Mariners",
+    "logo": "https://a4.espncdn.com/combiner/i?img=/i/espn/misc_logos/500/mlb.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467291.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "17:40 - MLB 02 - Yankees vs Guardians",
+    "logo": "https://a4.espncdn.com/combiner/i?img=/i/espn/misc_logos/500/mlb.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467292.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "17:40 - MLB 03 - Tigers vs Twins",
+    "logo": "https://a4.espncdn.com/combiner/i?img=/i/espn/misc_logos/500/mlb.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467293.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "17:40 - MLB 04 - Marlins vs Diamondbacks",
+    "logo": "https://a4.espncdn.com/combiner/i?img=/i/espn/misc_logos/500/mlb.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467294.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "17:40 - MLB 05 - Pirates vs Dodgers",
+    "logo": "https://a4.espncdn.com/combiner/i?img=/i/espn/misc_logos/500/mlb.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467295.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "17:40 - MLB 06 - Pirates vs Dodgers Español",
+    "logo": "https://a4.espncdn.com/combiner/i?img=/i/espn/misc_logos/500/mlb.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467296.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "17:40 - MLB 07 - Rays vs Red Sox",
+    "logo": "https://a4.espncdn.com/combiner/i?img=/i/espn/misc_logos/500/mlb.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467297.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "18:07 - MLB 08 - Blue Jays vs Phillies",
+    "logo": "https://a4.espncdn.com/combiner/i?img=/i/espn/misc_logos/500/mlb.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467298.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "18:10 - MLB 09 - Mets vs Cardinals",
+    "logo": "https://a4.espncdn.com/combiner/i?img=/i/espn/misc_logos/500/mlb.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467299.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "18:40 - MLB 10 - White Sox vs Braves",
+    "logo": "https://a4.espncdn.com/combiner/i?img=/i/espn/misc_logos/500/mlb.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467300.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "18:40 - MLB 11 - Royals vs Rangers",
+    "logo": "https://a4.espncdn.com/combiner/i?img=/i/espn/misc_logos/500/mlb.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467301.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "19:40 - MLB 12 - Rockies vs Cubs",
+    "logo": "https://a4.espncdn.com/combiner/i?img=/i/espn/misc_logos/500/mlb.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467302.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "20:38 - MLB 13 - Angels vs Astros",
+    "logo": "https://a4.espncdn.com/combiner/i?img=/i/espn/misc_logos/500/mlb.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467303.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "20:40 - MLB 14 - Padres vs Reds",
+    "logo": "https://a4.espncdn.com/combiner/i?img=/i/espn/misc_logos/500/mlb.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467304.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "20:40 - MLB 15 - Padres vs Reds Español",
+    "logo": "https://a4.espncdn.com/combiner/i?img=/i/espn/misc_logos/500/mlb.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467305.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "20:45 - MLB 16 - Giants vs Nationals",
+    "logo": "https://a4.espncdn.com/combiner/i?img=/i/espn/misc_logos/500/mlb.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467306.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "20:45 - MLB 17 - Giants vs Nationals Español",
+    "logo": "https://a4.espncdn.com/combiner/i?img=/i/espn/misc_logos/500/mlb.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467307.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "21:05 - MLB 18 - Athletics vs Brewers",
+    "logo": "https://a4.espncdn.com/combiner/i?img=/i/espn/misc_logos/500/mlb.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467308.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "07:30 - 06/09 Baseball pm: The New England Collegiate Baseball League: Newport vs. Danbury",
+    "logo": "http://onerestream.us:80/images/CJXKhdyUhubdGOWCxVSTu8xZNIhRsbwwURBCe_Nq0X28PvQ_0Zqcg8NErU6f2uQ8KWxurrUBvJHB9QbPa6OfxZDEhJI9ChkwKAcOb9n6E68.jpg",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467309.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "07:30 - 06/09 Baseball pm: The New England Collegiate Baseball League: MV Sharks vs. Valley",
+    "logo": "http://onerestream.us:80/images/CJXKhdyUhubdGOWCxVSTu8xZNIhRsbwwURBCe_Nq0X28PvQ_0Zqcg8NErU6f2uQ8KWxurrUBvJHB9QbPa6OfxZDEhJI9ChkwKAcOb9n6E68.jpg",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467310.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "18:00 - WNBA 01 - Dream vs. Sky",
+    "logo": "https://logos-world.net/wp-content/uploads/2021/11/WNBA-Symbol.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467311.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "21:00 - WNBA 02 - Valkyries vs Mercury",
+    "logo": "https://logos-world.net/wp-content/uploads/2021/11/WNBA-Symbol.png",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467312.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "23:00 - WNBA 03 - Phoenix Mercury vs. Golden State Valkyries",
+    "logo": "http://onerestream.us:80/images/CJXKhdyUhubdGOWCxVSTu8xZNIhRsbwwURBCe_Nq0X28PvQ_0Zqcg8NErU6f2uQ8KWxurrUBvJHB9QbPa6OfxZDEhJI9ChkwKAcOb9n6E68.jpg",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467313.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "19:00 - NHL 01 - Hurricanes vs. Golden Knights",
+    "logo": "https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg",
+    "category": "⚽ EVENTOS DEL DIA",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/467314.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  }
+]

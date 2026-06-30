@@ -1,0 +1,602 @@
+[
+  {
+    "id": "",
+    "name": "CINE  | A&E SD enc",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQjV-u5jw-GdHMR9tjbDC9wxDWINx3jLXRUQ&usqp=CAU",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120053.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE  | A&E HD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQjV-u5jw-GdHMR9tjbDC9wxDWINx3jLXRUQ&usqp=CAU",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120052.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE | AMC  SD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRPXbkxZVQKnNqZ0tcPBhMhdHUgLcP3Kw0fw&usqp=CAU",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120091.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE | AMC HD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRPXbkxZVQKnNqZ0tcPBhMhdHUgLcP3Kw0fw&usqp=CAU",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120090.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE | AXN  SD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFDesPfe1ZHPS8Manr4Gh-S3dP6FhllqYVjg&usqp=CAU",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120077.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE | AXN  HD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFDesPfe1ZHPS8Manr4Gh-S3dP6FhllqYVjg&usqp=CAU",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120076.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE  | CINEMAX  SD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkxewXQeeMqr4uYRrmID1JE2WWx2qoDvNddQ&usqp=CAU",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120055.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE  | CINEMAX  SD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkxewXQeeMqr4uYRrmID1JE2WWx2qoDvNddQ&usqp=CAU",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120083.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE  | CINEMAX HD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkxewXQeeMqr4uYRrmID1JE2WWx2qoDvNddQ&usqp=CAU",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120054.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE  | CINEMAX HD enc",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkxewXQeeMqr4uYRrmID1JE2WWx2qoDvNddQ&usqp=CAU",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120082.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE | HBO  HD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUtbjnKsynnCmmwzyL97_V5eVimvq_l9nScg&usqp=CAU",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120066.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE  | HBO  SD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUtbjnKsynnCmmwzyL97_V5eVimvq_l9nScg&usqp=CAU",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120067.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE  | HBO 2  HD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8lZ0U7y83aMg8VcxHcLWyr8k4eK-vVK_TPw&usqp=CAU",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120086.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE  | HBO 2  HD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8lZ0U7y83aMg8VcxHcLWyr8k4eK-vVK_TPw&usqp=CAU",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120058.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE | HBO 2  SD enc",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8lZ0U7y83aMg8VcxHcLWyr8k4eK-vVK_TPw&usqp=CAU",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120059.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE | HBO FAMILY  HD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA4WC_DVLdy7I-kMJhcpStbdiBOe00hos0AA&usqp=CAU",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120064.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE | HBO FAMILY  SD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA4WC_DVLdy7I-kMJhcpStbdiBOe00hos0AA&usqp=CAU",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120065.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE  | HBO PLUS  HD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSFTnuKd-uu1XQztepY5vFZUBhKCp8-Okbsg&usqp=CAU",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120062.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE  | HBO PLUS  SD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSFTnuKd-uu1XQztepY5vFZUBhKCp8-Okbsg&usqp=CAU",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120063.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE  | HBO POP  HD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrjaVQ_67o7XMUHTLunr3MrCREj8_Mfn_-g&usqp=CAU",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120068.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE  | HBO POP  SD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrjaVQ_67o7XMUHTLunr3MrCREj8_Mfn_-g&usqp=CAU",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120069.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE | HBO SIGNATURE  HD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd8X6vH9jsyuXvtYEs56bNO1NlDkim-SJkQg&usqp=CAU",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120060.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE  | HBO SIGNATURE  SD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd8X6vH9jsyuXvtYEs56bNO1NlDkim-SJkQg&usqp=CAU",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120061.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE  | TNT  HD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREx6xag_8jHvToBLGBqlHfK3Y6oMAi5cqnLw&usqp=CAU",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120070.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE  | TNT  SD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREx6xag_8jHvToBLGBqlHfK3Y6oMAi5cqnLw&usqp=CAU",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120071.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE | TNT SERIES  HD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS412_DLemKjbNR286Bqh-5--md7yWlo7F9sw&usqp=CAU",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120072.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE |  TNT SERIES  SD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS412_DLemKjbNR286Bqh-5--md7yWlo7F9sw&usqp=CAU",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120073.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE | CINE LATINO",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYLWKA2w7UzyAaT3-EA29E7bvcPQ9SsvHoMQ&usqp=CAU",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120102.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE | CINECANAL  HD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfY_V6-B2g_kEqycv8FnYBzZZca7242M3uLw&usqp=CAU",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120074.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE | CINECANAL  SD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfY_V6-B2g_kEqycv8FnYBzZZca7242M3uLw&usqp=CAU",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120075.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE | DE PELICULA",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUiZPEx8P-9Ml1kP-6STq7sqsePSox_OUKqjl24I9owg&s=10",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120111.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE | DE PELICULA CLASSIC",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUiZPEx8P-9Ml1kP-6STq7sqsePSox_OUKqjl24I9owg&s=10",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120110.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE | De Pelicula SD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUiZPEx8P-9Ml1kP-6STq7sqsePSox_OUKqjl24I9owg&s=10",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120112.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE | DE PELICULA ᴴᴰ",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUiZPEx8P-9Ml1kP-6STq7sqsePSox_OUKqjl24I9owg&s=10",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120109.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE | FX  HD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJq1YUknstlcWYR_a39Pbh-VKNQP_noF_rDg&usqp=CAU",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120087.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE | GOLDEN  HD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxytfwU0t7hq8tWkwnq1tr0_J-NnCk_nV1Ow&usqp=CAU",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120092.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE | GOLDEN  SD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxytfwU0t7hq8tWkwnq1tr0_J-NnCk_nV1Ow&usqp=CAU",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120093.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE | GOLDEN EDG  HD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw_MXCN8YTJUs_t4zTDTivh73cIHqA2A3Drw&usqp=CAU",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120094.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE | GOLDEN EDG  SD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw_MXCN8YTJUs_t4zTDTivh73cIHqA2A3Drw&usqp=CAU",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120095.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE | GOLDEN PLUS HD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUkFenrLxGFpEKOzzTEl2crLHBNePJehWFQ&usqp=CAU",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120100.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE | GOLDEN PLUS SD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUkFenrLxGFpEKOzzTEl2crLHBNePJehWFQ&usqp=CAU",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120101.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE | GOLDEN PREMIER  HD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9O4LcnjKCXpeYqAKqoMBL8AlgEW4KvxMe9w&usqp=CAU",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120096.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE | GOLDEN PREMIER  SD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9O4LcnjKCXpeYqAKqoMBL8AlgEW4KvxMe9w&usqp=CAU",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120097.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE | PARAMOUNT CHANEL HD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoLcVhN7sW34YgTU8sCI6EtLwRAeGUp9-h_A&usqp=CAU",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120098.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE | PARAMOUNT CHANEL SD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoLcVhN7sW34YgTU8sCI6EtLwRAeGUp9-h_A&usqp=CAU",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120099.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE | SONY  HD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmUM5s02mVJaBsX8VO8xATB9ivrYta859D9g&usqp=CAU",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120080.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE | SONY  SD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmUM5s02mVJaBsX8VO8xATB9ivrYta859D9g&usqp=CAU",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120081.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE | SPACE CHANEL  HD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaPteTsp2zPkNGIK2aC8M1_bKG7FUZBaFHrg&usqp=CAU",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120088.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE | SPACE CHANEL  SD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaPteTsp2zPkNGIK2aC8M1_bKG7FUZBaFHrg&usqp=CAU",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120089.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE | STAR CHANNEL  HD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJHdTGlAtih1EIvRzTwiNh45eyEUX9mBa9wsNpEJYkVA&s=10",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120056.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE | STAR CHANNEL  SD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJHdTGlAtih1EIvRzTwiNh45eyEUX9mBa9wsNpEJYkVA&s=10",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120057.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE | WARNER  HD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNIfv7VLUeS2w8eoF4b-k5psDxmpHYqkxew&usqp=CAU",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120078.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "CINE | WARNER  SD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNIfv7VLUeS2w8eoF4b-k5psDxmpHYqkxew&usqp=CAU",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120079.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "DHE",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9Sj-nGK4C-XQIrPvEMBh2ytKv6b6uKhG4qX_gnTanAg&s=10",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120107.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "P | UNIVERSAL CINEMA HD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxibR0UmgBTgqR_Z7hr1fc43Q5AIw5s0g867HsLT1Fyg&s=10",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120105.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "P | UNIVERSAL COMEDY HD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXGCwQ9rydsilwxCwMcEY_kbu6ufe4abmD8Hr4-8HXYg&s=10",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120103.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "P | UNIVERSAL CRIMEN HD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYxU8ri2L12pEV7zpeJ2muvvzebbjZbwsNdEPuxQW75A&s=10",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/120106.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "STUDIO UNIVERSAL.",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO0VUlI8SHZOgX73mlW9_WfF4A3a-COnQVnDBOgnZtZg&s=10",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/137714.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "TCM  HD DASH",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuPM2LrOrlbuxUzPhdTBIbB7LXHuneFNxxiG0BorvGUg&s=10",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/225614.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "SYFY",
+    "logo": "",
+    "category": "⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",
+    "url": "http://flexlive.lat:8080//live/dagopineda/DAeVXavdtYjx/354937.ts",
+    "type": "live",
+    "rating": "",
+    "added": ""
+  }
+]
