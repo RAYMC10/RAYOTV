@@ -1,0 +1,582 @@
+[
+  {
+    "id": "",
+    "name": "A Death in the Family (2020)",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZfb6ySPF3P8UoyixYfRaB4dS6h.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371572.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "Wonder Woman 1984 (2020)",
+    "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/jIIjsExCEv6lsfQGHTXDPk3Q0M5.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371571.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "La Liga de la Justicia: La paradoja del tiempo (2013)",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jOIH3wCtz3y4DonPDoHqSz0VjDj.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371570.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "Batman: Guardián de Gotham (2008)",
+    "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/cUcDkHuoYOKgLwXKNpOne3lmBEC.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371569.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "Batman Unlimited: Máquinas vs. Monstruos (2016)",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tJz26NxxdXxfDm9lI6FDsUnDofI.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371568.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "Batman contra Robin (2015)",
+    "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/aGjDRWVQEZzJ7ZmGXmTEnVSf6YL.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371567.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "Escuadrón suicida (2016)",
+    "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/9ymhU7NclJr29MpZnBQbJurYbuc.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371566.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "Lego DC Comics Super Heroes: Flash (2018)",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AnPwhS4narxS6fD7fHuhehfnQzz.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371565.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "Batman: Hush (2019)",
+    "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/eiVQORVyVuNNZHPAELuWtlXoQsD.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371564.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "Batman: Alma de Dragón (2021)",
+    "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/vbwe6wuBBErsikY3xEnmMzx90CI.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371563.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "Wonder Woman (2017)",
+    "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/yjzHtHSAPDdRQejnTyFbifX2gef.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371562.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "La Liga de la Justicia contra los Jóvenes Titanes (2016)",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6cUDnsWQSeknDeasWpq59WNjWjd.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371561.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "LEGO DC Batman: La Bat-familia importa (2019)",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugroi0DuziV0MUoz6bYoTzODHqq.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371560.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "LEGO DC Super Heroes: Aquaman: la ira de Atlantis (2018)",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5S6BbTIu18CLEHRDdNzCLzSKAMq.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371559.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "Exoplaneta Dune en Peligro (2021)",
+    "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/6U3JjInVibVMThVp5YSrufAdSVX.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371558.mkv",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "La muerte de Superman (2018)",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2eTqYQ2g0hKOuYfIazgy2EdH1SS.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371557.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "El caballero oscuro (2008)",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8QDQExnfNFOtabLDKqfDQuHDsIg.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371556.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "LEGO DC: ¡Shazam! Magia y monstruos (2020)",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6jSpfFY9jclbl9pE0vf00XHXrh.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371555.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "Superman: Brainiac ataca (2006)",
+    "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/744nyH5AECmrJtB30sPokjIYTuw.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371554.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "La Liga de la Justicia: El trono de Atlantis (2015)",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKHWoabqFg7QVS4Xqu5Q84PmuAo.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371553.mkv",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "Liga de la Justicia (2017)",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wUWqnavD8iGZ5F4xXhWlrtEzKjV.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371552.mkv",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "Batman y Harley Quinn (2017)",
+    "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/cC5zcStR6WJExkthMmKwXrOfrBs.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371551.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "LEGO La Liga de la Justicia: Fuga de Gotham (2016)",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/PpDU8QkX4viQImWO5CH4RsdjQb.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371550.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "Batman vs. las Tortugas Ninja (2019)",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wgBBB3Auky610UPhWdb0hBnwQzM.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371549.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "Batman vs Superman: El amanecer de la justicia (2016)",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mS3t9puIjLKgoex82cu9d6G0835.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371548.mkv",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "La Liga de la Justicia de Zack Snyder (2021)",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcIJgChypo0s6ILm9Dkr13rV5q0.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371547.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "La Liga de la Justicia de Zack Snyder (2021)",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcIJgChypo0s6ILm9Dkr13rV5q0.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371546.mkv",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "LEGO DC Comics Super Heroes: La Liga de la Justicia - El ataque de la Legión del Mal (2015)",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnZ9ck0v6wwbfDQiNRTjFtz3g6C.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371545.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "Parte 2 (2013)\" tvg-logo=\"https://image.tmdb.org/t/p/w600_and_h900_bestv2/vTpZl5n7wxyxhZZINd3gDVaEGhk.jpg\" group-title=\"▶️ VOD UNIVERSO D.C\",Batman: El regreso del Caballero Oscuro, Parte 2 (2013)",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vTpZl5n7wxyxhZZINd3gDVaEGhk.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371544.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "La Liga de la Justicia: Dioses y Monstruos (2015)",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLj9T1wDzFWg8FEJSxTPZXWTPCu.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371543.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "Batman Begins (2005)",
+    "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/6yMWU1vWkOBbNRIwOxhetd2aHhO.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371542.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "Liga de la Justicia Oscura: La Guerra Apokolips (2020)",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/osrf7VTgAwTLIr38dxJl2Y7q35H.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371541.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "La Liga de la Justicia: Guerra (2014)",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vbxw3IEseLTOMNOUBk3JS6gibbK.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371540.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "Batman: La máscara del fantasma (1993)",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wZdRUZX624bTFo2drYrrBjoNL7Y.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371539.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "Superman: Hijo rojo (2020)",
+    "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/p55DBjjWnU421XqEDQhnP512UiK.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371538.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "Batman Ninja (2018)",
+    "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/zaw7PQ7GvTliBVmfg2o8OJfhWjU.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371537.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "Aquaman (2018)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3D7jGx8XRnGJj-t5HFjVB1K4gx64OkSn2Iu5Gkc8lVw&s=10",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371536.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "La Liga de la Justicia vs Los Cinco Fatales (2019)",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sw4s1RnhIYa2laxBZoOZ25tZFV9.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371535.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "Superman II (1980)",
+    "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/c5OPYXLpRdwtnGBX4gZ8bGq6kSp.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371534.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "Batman Unlimited: Instinto animal (2015)",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSYcTYZW7GL1NrkXSXmC3zEY5Ng.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371533.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "Batman: La LEGO película (2017)",
+    "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/9F7OQVDMmvUJVwI7s0yzGNftC2F.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371532.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "El hombre de acero (2013)",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5JW44QGgpEWx4aWXM0uVSi2xtrI.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371531.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "El caballero oscuro: La leyenda renace (2012)",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrS7K8tXVFUBliIKWaRuSq65nWr.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371530.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "Batman vs Superman: El amanecer de la justicia (2016)",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mS3t9puIjLKgoex82cu9d6G0835.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371529.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "Superman Returns: El regreso (2006)",
+    "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/rtRlig4q4kUO1AzN7o7dzRIqzxI.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371528.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "La muerte de Superman - Parte 2: el reinado de los superhombres (2019)",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vkpysKRxELppiBohAlVeruvsCoP.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371527.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "Escuadrón Suicida: Consecuencias infernales (2018)",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gcEYpZR6fiivjya7SkQ6fzhv2VX.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371526.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "El caballero oscuro (2008)",
+    "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/8QDQExnfNFOtabLDKqfDQuHDsIg.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371525.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "Batman: Mala sangre (2016)",
+    "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/xMDoFicHakKLNsf7v90QDWptZ8O.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371524.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "Aquaman (2018)",
+    "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/yTzr6Nc4RcTXVw9SsWQNJdcjTz5.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371523.mkv",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "Superman III (1983)",
+    "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/d0s7bQpDXKVIeIj3HZZYTvJGCWv.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371522.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "La Muerte y El Regreso de Superman (2019)",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ikY9kxX2XDcPamPw6RLajG3ARDE.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371521.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "Joker (2019)",
+    "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/v0eQLbzT6sWelfApuYsEkYpzufl.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371520.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "¡Shazam! (2019)",
+    "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/kIFthNFctw1ZYEIMer0dVnOln78.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371519.mkv",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "Deathstroke: Caballeros y dragones (2020)",
+    "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/nCJGThrH249sLUAzIS80xM7BEKz.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371518.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "Superman: El hombre del mañana (2020)",
+    "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/eJqzdZ4CBmPz4pkp8IyRJ4EIn2k.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371517.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "Superman IV: En busca de la paz (1987)",
+    "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/i9l2OBvASDruutxftB0z4dfjLhR.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371516.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  },
+  {
+    "id": "",
+    "name": "Parte 1 (2012)\" tvg-logo=\"https://image.tmdb.org/t/p/w600_and_h900_bestv2/yplFdLSePwRdVeiw3xfnumeTvsH.jpg\" group-title=\"▶️ VOD UNIVERSO D.C\",Batman: El regreso del Caballero Oscuro, Parte 1 (2012)",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yplFdLSePwRdVeiw3xfnumeTvsH.jpg",
+    "category": "▶️ VOD UNIVERSO D.C",
+    "url": "http://flexlive.lat:8080/movie/dagopineda/DAeVXavdtYjx/371515.mp4",
+    "type": "movie",
+    "rating": "",
+    "added": ""
+  }
+]
